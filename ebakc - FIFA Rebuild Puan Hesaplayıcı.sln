@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ebakc - FIFA Rebuild Puan Hesaplayıcı", "ebakc - FIFA Rebuild Puan Hesaplayıcı.csproj", "{C42AAEF4-519B-472D-9C79-3D1CF8BEB20F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C42AAEF4-519B-472D-9C79-3D1CF8BEB20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42AAEF4-519B-472D-9C79-3D1CF8BEB20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42AAEF4-519B-472D-9C79-3D1CF8BEB20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42AAEF4-519B-472D-9C79-3D1CF8BEB20F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0335E358-EA09-4CB8-BEE4-523E59E53222}
+	EndGlobalSection
+EndGlobal
